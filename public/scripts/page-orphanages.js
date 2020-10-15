@@ -31,4 +31,3 @@ const popup = L.popup({
 L.marker([-30.0779192,-51.2069301,11.88], { icon })
 .addTo(map)
 .bindPopup(popup)
-/* isso tava normal msm? antes sim  e agr? agr n tá faltando {} */ a n t
